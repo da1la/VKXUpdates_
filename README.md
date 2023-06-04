@@ -17,3 +17,7 @@
 ### 2. Выполнить "chmod -x install.sh"
 ### 3. Запустить ./install.sh
 ### 4. Вы прекрасны
+
+# Траблшутинг или для чего вы зашли сюда снова
+### при ошибках связанных с gbinder выполнить следующую комманду
+## yay -S python-gbinder --answerclean All --answerdiff None --asdeps --aur --rebuild
